@@ -22,3 +22,4 @@ function validarAcceso() {
             console.log("Usuario bloqueado. Ha superado el numero de intentos.");
         }
      }
+     validarAcceso();
